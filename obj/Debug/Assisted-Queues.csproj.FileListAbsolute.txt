@@ -1,0 +1,8 @@
+E:\hd\Assisted-Queues\Assisted-Queues\bin\Debug\Assisted-Queues.exe.config
+E:\hd\Assisted-Queues\Assisted-Queues\bin\Debug\Assisted-Queues.exe
+E:\hd\Assisted-Queues\Assisted-Queues\bin\Debug\Assisted-Queues.pdb
+E:\hd\Assisted-Queues\Assisted-Queues\obj\Debug\Assisted-Queues.csproj.AssemblyReference.cache
+E:\hd\Assisted-Queues\Assisted-Queues\obj\Debug\Assisted-Queues.csproj.SuggestedBindingRedirects.cache
+E:\hd\Assisted-Queues\Assisted-Queues\obj\Debug\Assisted-Queues.csproj.CoreCompileInputs.cache
+E:\hd\Assisted-Queues\Assisted-Queues\obj\Debug\Assisted-Queues.exe
+E:\hd\Assisted-Queues\Assisted-Queues\obj\Debug\Assisted-Queues.pdb
